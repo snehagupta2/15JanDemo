@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="68" started-at="2020-01-13T11:57:01Z" finished-at="2020-01-13T11:57:01Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="68" started-at="2020-01-13T11:57:01Z" finished-at="2020-01-13T11:57:01Z">
+      <class name="demo.com.packt2.demoForJenkins2Test">
+        <test-method status="PASS" signature="mTest()[pri:0, instance:demo.com.packt2.demoForJenkins2Test@5315b42e]" name="mTest" duration-ms="16" started-at="2020-01-13T17:27:01Z" finished-at="2020-01-13T17:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mTest -->
+      </class> <!-- demo.com.packt2.demoForJenkins2Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
